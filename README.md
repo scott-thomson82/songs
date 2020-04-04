@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+||||||| merged common ancestors
+# songs
+=======
+# songs
+
+## Modern React with Redux course
+
+Small Udemy tutorial app to practice managing state with Redux
+>>>>>>> dfe531bef18de2dc86bae98194302a8b7f958c98
